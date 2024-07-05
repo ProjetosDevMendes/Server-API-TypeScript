@@ -1,6 +1,7 @@
 // npm i express
 //npm i --save-dev @types/express
 //Comando para rodar: npm run lint ou npm run lint:fix (para consertar e indicar erros do codigo)
+//npm run start (Para iniciar o servidor)
 import express, { Request, Response } from 'express';
 
 const app = express();
